@@ -1,4 +1,4 @@
-<div align=center><h1>⚽️Binary-Playerground</h1></div>
+<div align=center><h1>⚽️Binary-Playerground🏀</h1></div>
 
 <div align=center><h4> 자료구조/알고리즘 공부, 코딩테스트 문제를 선정매 주 스터디를 진행 </h4></div>
 <div align=center><h4>  </h4></div>
@@ -32,12 +32,12 @@
   - 기타(문제 풀이에 어려웠던 점, 구현하고자 했는데 실패한 방식)
 
 
-<div align=center><h2>🥊PR & Commit Message Guidelines</h2></div>
+<div align=center><h2>💌 PR & Commit Message Guidelines</h2></div>
 
 - Pull Request : `[Baekjoon-폴더명] 이름`
 - Commit Message : `[Baekjoon-레벨-문제번호] 문제 이름`
   
-<div align=center><h2>📄 File & Folder Structure</h2></div>
+<div align=center><h2>📂 File & Folder Structure</h2></div>
 
 #### 백준
 - Baekjoon/yeongho/폴더명/문제레벨_문제명.filetype
