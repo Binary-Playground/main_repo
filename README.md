@@ -14,9 +14,9 @@
   <br>
 </div>
 
-<div align=center><h1>📚스터디 규칙</h1></div>
+<div align=center><h1>📚Study Rules</h1></div>
 
-### 문제 풀이
+### Problem Solving
 - 주마다 4문제씩 선정.
    - `문제-> CLASS -> 2,3,4,5 LEVEL 에센셜 문제`를 제일 위에서부터 1개씩 선정
    
@@ -32,15 +32,28 @@
   - 기타(문제 풀이에 어려웠던 점, 구현하고자 했는데 실패한 방식)
 
 
-<div align=center><h1>PR 규칙 및 Commit Message 규칙</h1></div>
+<div align=center><h1>PR & Commit Message Guidelines</h1></div>
 
 - Pull Request : `[Baekjoon-폴더명] 이름`
 - Commit Message : `[Baekjoon-레벨-문제번호] 문제 이름`
   
-<div align=center><h1>파일 및 폴더 구조</h1></div>
+<div align=center><h1>File And Folder Structure</h1></div>
 
 #### 백준
 - Baekjoon/yeongho/폴더명/문제레벨_문제명.filetype
 - Baekjoon/jeongmin//폴더명/문제레벨_문제명.filetype
 
-<div align=center><h1>일정표</h1></div>
+<div align=center><h1>Schedule Table</h1></div>
+
+|날짜|Level 2|Level 3|Level 4|Level 5|비고|
+|------|---|---|---|---|---|
+|1주차(24.12.25 ~ 01.05)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/4153)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[RGB거리](https://www.acmicpc.net/problem/1149)|[ACM Craft](https://www.acmicpc.net/problem/1005)||
+|2주차(25.01.05 ~ 01.12)|[단어 정렬](https://www.acmicpc.net/problem/1181)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)||
+|3주차(25.01.12 ~ 01.19)|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[Z](https://www.acmicpc.net/problem/1074)|[파티](https://www.acmicpc.net/problem/1238)|[보석 도둑](https://www.acmicpc.net/problem/1202)||
+|4주차(25.01.19 ~ 01.26)|[평균](https://www.acmicpc.net/problem/1546)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[곱셈](https://www.acmicpc.net/problem/1629)|[계단수](https://www.acmicpc.net/problem/1562)||
+|5주차(25.01.26 ~ 02.02)|[수 찾기](https://www.acmicpc.net/problem/1920)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[최단경로](https://www.acmicpc.net/problem/1753)|[부분합](https://www.acmicpc.net/problem/1806)||
+|6주차(25.02.02 ~ 02.09)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[듣보잡](https://www.acmicpc.net/problem/1764)|[웜홀](https://www.acmicpc.net/problem/1865)|[외판원 순회](https://www.acmicpc.net/problem/2098)||
+|7주차(25.02.09 ~ 02.16)||||||
+|8주차(25.02.16 ~ 02.23)||||||
+|9주차(25.02.23 ~ 03.02)||||||
+|10주차(25.03.02 ~ 02.09)||||||
