@@ -6,13 +6,16 @@
 
 - 문제 선정 사이트 : https://solved.ac/
 - 정기 회의 : `매주 일요일 4시`
-- 사용 언어 : <div align=center> 
+- 사용 언어 :
+
+<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
 </div>
+
 
 <div align=center><h2>📚Study Rules</h2></div>
 
@@ -41,13 +44,13 @@
 
 #### 백준
 - Baekjoon/yeongho/폴더명/문제레벨_문제명.filetype
-- Baekjoon/jeongmin//폴더명/문제레벨_문제명.filetype
+- Baekjoon/jeongmin/폴더명/문제레벨_문제명.filetype
 
 <div align=center><h2>📋 Schedule Table</h2></div>
 
 |날짜|Level 2|Level 3|Level 4|Level 5|비고|
 |------|---|---|---|---|---|
-|1주차(24.12.25 ~ 01.05)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/4153)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[RGB거리](https://www.acmicpc.net/problem/1149)|[ACM Craft](https://www.acmicpc.net/problem/1005)||
+|1주차(24.12.25 ~ 01.05)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[RGB거리](https://www.acmicpc.net/problem/1149)|[ACM Craft](https://www.acmicpc.net/problem/1005)||
 |2주차(25.01.05 ~ 01.12)|[단어 정렬](https://www.acmicpc.net/problem/1181)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)||
 |3주차(25.01.12 ~ 01.19)|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[Z](https://www.acmicpc.net/problem/1074)|[파티](https://www.acmicpc.net/problem/1238)|[보석 도둑](https://www.acmicpc.net/problem/1202)||
 |4주차(25.01.19 ~ 01.26)|[평균](https://www.acmicpc.net/problem/1546)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[곱셈](https://www.acmicpc.net/problem/1629)|[계단수](https://www.acmicpc.net/problem/1562)||
