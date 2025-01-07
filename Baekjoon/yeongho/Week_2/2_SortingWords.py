@@ -4,13 +4,11 @@ words = set()
 
 for _ in range(n):
     word = input()
-    if word in words:
-        continue
-
     words.add(word)
 
 wordList = list(words)
-wordList.sort(key = lambda x : len(x))
+wordList.sort()
+wordList.sort(key=lambda x: len(x))
 
 for elem in wordList:
     print(elem)
