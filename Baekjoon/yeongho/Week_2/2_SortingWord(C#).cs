@@ -34,6 +34,10 @@ public class SortingWord
 
     public void StartingSort()
     {
+        // 또는 LINQ 방식으로 더 깔끔하게
+        // List<string> wordList = words.OrderBy(x => x.Length).ThenBy(x => x).ToList();
+        //words = wordList;
+
         words.Sort((word1, word2) =>
         {
             var lengthComparison = word1.Length.CompareTo(word2.Length);
