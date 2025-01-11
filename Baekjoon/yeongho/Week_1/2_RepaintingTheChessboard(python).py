@@ -36,11 +36,18 @@ def CalculateCost(r, c, startWithWhite):
 # 2. 검은색 부터 칠해 졌을떄
 for r in range(RowSize):
     for c in range(ColSize):
-        expectedColorWhite = Color.White if (r+c) % 2 == 0 else Color.Black
-        expectedColorBlack = GetOppositeColor(expectedColorWhite)
+        expectedColorWhite = Color.White if (r+c) % 2 == 0 else Color.Black # 하얀색으로 시작했을때
+        expectedColorBlack = GetOppositeColor(expectedColorWhite)           # 검은색으로 사작했을때
 
-        W_ChessBoard[r][c] = (W_ChessBoard[r-1][c] if r > 0 else 0) + (W_ChessBoard[r][c-1] if c > 0 else 0) - (W_ChessBoard[r-1][c-1] if r > 0 and c > 0 else 0) + (0 if boardRrr[r][c] == expectedColorWhite else 1)
-        B_ChessBoard[r][c] = (B_ChessBoard[r-1][c] if r > 0 else 0) + (B_ChessBoard[r][c-1] if c > 0 else 0) - (B_ChessBoard[r-1][c-1] if r > 0 and c > 0 else 0) + (0 if boardRrr[r][c] == expectedColorBlack else 1)
+        W_ChessBoard[r][c] = ((W_ChessBoard[r-1][c] if r > 0 else 0) +
+                              (W_ChessBoard[r][c-1] if c > 0 else 0) -
+                              (W_ChessBoard[r-1][c-1] if r > 0 and c > 0 else 0) +
+                              (0 if boardRrr[r][c] == expectedColorWhite else 1))
+
+        B_ChessBoard[r][c] = ((B_ChessBoard[r-1][c] if r > 0 else 0) +
+                              (B_ChessBoard[r][c-1] if c > 0 else 0) -
+                              (B_ChessBoard[r-1][c-1] if r > 0 and c > 0 else 0) +
+                              (0 if boardRrr[r][c] == expectedColorBlack else 1))
 
 # 최소값 찾기
 for r in range(7, RowSize):
