@@ -69,7 +69,5 @@ class FieldSimulation:
 
 if __name__ == "__main__":
     tool = OrganicCabbage()
-
     tool.initialize()
-
     tool.Play()
