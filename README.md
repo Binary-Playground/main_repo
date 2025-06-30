@@ -43,8 +43,7 @@
 <div align=center><h2>📂 File & Folder Structure</h2></div>
 
 #### 백준
-- Baekjoon/yeongho/폴더명/문제레벨_문제명.filetype
-- Baekjoon/jeongmin/폴더명/문제레벨_문제명.filetype
+- Baekjoon/{name}/폴더명/문제레벨_문제명.filetype
 
 <div align=center><h2>📋 Schedule Table</h2></div>
 
@@ -54,12 +53,12 @@
 |2주차(25.01.05 ~ 01.12)|[단어 정렬](https://www.acmicpc.net/problem/1181)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|✔️|
 |3주차(25.01.12 ~ 01.19)|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[Z](https://www.acmicpc.net/problem/1074)|[파티](https://www.acmicpc.net/problem/1238)|[보석 도둑](https://www.acmicpc.net/problem/1202)|✔️|
 |4주차(25.01.19 ~ 01.26)|[평균](https://www.acmicpc.net/problem/1546)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[곱셈](https://www.acmicpc.net/problem/1629)|[계단수](https://www.acmicpc.net/problem/1562)|✔️|
-|5주차(25.01.26 ~ 02.02)|[수 찾기](https://www.acmicpc.net/problem/1920)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[최단경로](https://www.acmicpc.net/problem/1753)|[부분합](https://www.acmicpc.net/problem/1806)||
-|6주차(25.02.02 ~ 02.09)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[듣보잡](https://www.acmicpc.net/problem/1764)|[웜홀](https://www.acmicpc.net/problem/1865)|[외판원 순회](https://www.acmicpc.net/problem/2098)||
-|7주차(25.02.09 ~ 02.16)|[카드2](https://www.acmicpc.net/problem/2164)|[최소 힙](https://www.acmicpc.net/problem/1927)|[후위 표기식](https://www.acmicpc.net/problem/1918)|[다각형의 면적](https://www.acmicpc.net/problem/2166)||
-|8주차(25.02.16 ~ 02.23)|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[스도쿠](https://www.acmicpc.net/problem/2239)||
-|9주차(25.02.23 ~ 03.02)|[수 정렬하기2](https://www.acmicpc.net/problem/2751)|[바이러스](https://www.acmicpc.net/problem/2606)|[트리의 지름](https://www.acmicpc.net/problem/1967)|[줄 세우기](https://www.acmicpc.net/problem/2252)||
-|10주차(25.03.02 ~ 03.09)|[블랙잭](https://www.acmicpc.net/problem/2798)|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[트리 순회](https://www.acmicpc.net/problem/1991)|[용액](https://www.acmicpc.net/problem/2467)||
+|5주차(25.06.29 ~ 07.05)|[수 찾기](https://www.acmicpc.net/problem/1920)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[최단경로](https://www.acmicpc.net/problem/1753)|[부분합](https://www.acmicpc.net/problem/1806)||
+|6주차(25.07.06 ~ 07.12)|[소수 찾기](https://www.acmicpc.net/problem/1978)|[듣보잡](https://www.acmicpc.net/problem/1764)|[웜홀](https://www.acmicpc.net/problem/1865)|[외판원 순회](https://www.acmicpc.net/problem/2098)||
+|7주차(25.07.13 ~ 07.19)|[카드2](https://www.acmicpc.net/problem/2164)|[최소 힙](https://www.acmicpc.net/problem/1927)|[후위 표기식](https://www.acmicpc.net/problem/1918)|[다각형의 면적](https://www.acmicpc.net/problem/2166)||
+|8주차(25.07.20 ~ 07.26)|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[스도쿠](https://www.acmicpc.net/problem/2239)||
+|9주차(25.07.27 ~ 08.02)|[수 정렬하기2](https://www.acmicpc.net/problem/2751)|[바이러스](https://www.acmicpc.net/problem/2606)|[트리의 지름](https://www.acmicpc.net/problem/1967)|[줄 세우기](https://www.acmicpc.net/problem/2252)||
+|10주차(25.08.03 ~ 08.09)|[블랙잭](https://www.acmicpc.net/problem/2798)|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[트리 순회](https://www.acmicpc.net/problem/1991)|[용액](https://www.acmicpc.net/problem/2467)||
 |11주차(25.03.09 ~ 03.16)|[]()|[]()|[]()|[]()||
 |12주차(25.03.16 ~ 03.23)|[]()|[]()|[]()|[]()||
 |13주차(25.03.23 ~ 03.30)|[]()|[]()|[]()|[]()||
